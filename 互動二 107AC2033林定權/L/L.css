@@ -1,0 +1,299 @@
+
+.container{
+    background-color:#FFF8E8;
+    width: 1280px;
+    height: 1995px;
+    margin: 0 auto;
+}
+body{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.SWEETY1{
+    font-size: 35px;
+    font-family: Cooper;
+    color: #9C530C;
+    padding-top: 35px;
+    padding-left: 201px;
+  
+}
+.SWEETY{
+    font-size: 35px;
+    font-family: Cooper;
+    color: #9C530C;
+    padding-top: 13px;
+    padding-left: 0px;
+  
+}
+
+.pic1{
+    padding-top:0px;
+    padding-left: 232.5px;
+}
+.pic2{
+    padding-top: 0px;
+    padding-left:161px;
+}
+.pic3{
+    padding-top: 0px;
+    padding-left:25px;
+}
+.pic4{
+    padding-top: 0px;
+    padding-left: 25px;
+    padding-right:165px;
+}
+
+.nav{
+    height: 50px;
+    width: 1280px;
+    position: absolute;
+
+   background: #FFF0CC;
+}  
+.nav-list{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    color:#FFF0CC;
+}
+.nav-list-1{
+    list-style: none;
+    font-family: Cooper Black;
+    font-size: 25px;
+    color: #9C530C;
+    text-decoration: none;
+    position: absolute;
+    top:9px;
+    left:275px;
+}
+.nav-list-2{
+    list-style: none;
+    font-family: Cooper Black;
+    font-size: 25px;
+    color: #9C530C;
+    text-decoration: none;
+    position: absolute;
+    top:9px;
+    left:395px;
+}
+
+.nav-list-3{
+    list-style: none;
+    font-family: Cooper Black;
+    font-size: 25px;
+    color: #9C530C;
+    text-decoration: none;
+    position: absolute;
+    top:9px;
+    left:565px;
+}
+
+.nav-list-4{
+    list-style: none;
+    font-family: Cooper;
+    font-size: 25px;
+    color: #9C530C;
+    text-decoration: none;
+    position: absolute;
+    top:9px;
+    left:735px;
+}
+
+.nav-list-5{
+    list-style: none;
+    font-family: Cooper Black;
+    font-size: 25px;
+    color: #9C530C;
+    text-decoration: none;
+    position: absolute;
+    top:9px;
+    left:905px;
+}
+.tupian{
+    display: block;
+    padding:0;
+    margin:0;
+    padding-top:50px;
+    padding-right:0px;
+    
+}
+
+.three{
+    width: 1280px;
+    height: 340px;
+    background: #FFF8E8;
+    
+}
+.pic5{
+    margin-left: 200px;
+    padding-top: 40px;
+}
+.pic6{
+    margin-left: 65px;
+    padding-top: 40px;
+}
+.pic7{
+    margin-left: 65px;
+    padding-top: 40px;
+}
+.four{
+    width: 1280px;
+    height: 420px;
+    background: #ffffff;
+
+}
+.remenshangping{
+    width: 120px;
+    height: 40px;
+    font-family: Cooper;
+    font-size: 30px;
+    color: #9C530C;
+    padding-top: 50px;
+    padding-left: 580px;
+}
+.five{
+    display: flex;
+}
+
+
+
+
+.pic8{
+    margin-left:200px;
+    padding-top:40px;
+}
+.pic9{
+    margin-left:27px;
+    padding-top:40px;
+}
+.pic10{
+    margin-left:27px;
+    padding-top:40px;
+}
+.pic11{
+    margin-left:27px;
+    padding-top:40px;
+}
+.mocha{
+    font-family: Cooper;
+    font-size: 20px;
+    color: #9C530C;
+    margin-left: 250px;
+  
+    
+}
+.qiaokeli{
+    font-family: Cooper;
+    font-size: 20px;
+    color: #9C530C;
+    margin-left: 100px;
+  
+
+}
+.qingruluo{
+    font-family: Cooper;
+    font-size: 20px;
+    color: #9C530C;
+    margin-left: 100px;
+    
+
+
+}
+.bingqilin{
+    font-family: Cooper;
+    font-size: 20px;
+    color: #9C530C;
+    margin-left: 100px;
+  
+
+}
+.Tupian{
+    display: block;
+    padding:0;
+    margin:0;
+    width: 1280px;
+    height: 350px;
+
+}
+.yejiao{
+ display: flex;
+ background: #B95B00;
+ width: 1280px;
+ height: 182px;
+
+}
+.pic12{
+    display: block;
+    padding:0;
+    margin:0;
+    padding-top: 32px;
+    margin-left: 204px;
+}
+.SWEETY2{
+    display: block;
+    padding:0;
+    margin:0;
+    font-size: 30px;
+    font-family: Cooper;
+    color:#FFF8E8;
+    margin-left: 200px;
+    padding-top: 5px;
+
+}
+.one{
+    margin-left: 119px;
+    padding-top: 28px;
+    color:#ffffff ;
+    line-height: 37px;
+    font-family: Segoe UI;
+    font-size:20px ;
+}
+.two{
+    color:#ffffff ;
+    line-height: 37px;
+    font-family: Segoe UI;
+    font-size:21px ;
+    margin-left: 124px;
+    padding-top: 28px;
+    text-decoration: underline;
+
+
+}
+.fb{
+    margin-left: 124px;
+
+}
+.ig{
+    margin-left: 10px;
+}
+.yt{
+    margin-left: 10px;
+    padding-top: 0px;
+}
+.zuihou{
+    display: block;
+    padding:0;
+    margin:0;
+    display: flex;
+    background: #B95B00;
+    width: 1280px;
+    height: 60px;
+    
+
+
+}
+.th{
+   
+    color:#ffffff;
+    font-family: Segoe UI;
+    font-size:20px ;
+    margin-left: 425px;
+ 
